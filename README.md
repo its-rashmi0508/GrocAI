@@ -129,15 +129,13 @@ When the cart is badly out of balance, the app can send a system notification.
 
 ## 📸 Screenshots
 
-> Add your screenshots to a `screenshots/` folder and update the paths below.
-
 | Login | Home | Shopping List |
 |:---:|:---:|:---:|
-| ![Login](screenshots/login.jpg) | ![Home](screenshots/home.jpg) | ![List](screenshots/list.jpg) |
+| ![Login]("C:\Users\rashm\Downloads\login.jpeg") | ![Home]("C:\Users\rashm\Downloads\home.jpeg") | ![List]("C:\Users\rashm\Downloads\list.jpeg") |
 
 | Budget | Monthly Insights | AI Assistant |
 |:---:|:---:|:---:|
-| ![Budget](screenshots/budget.jpg) | ![Insights](screenshots/insights.jpg) | ![Chat](screenshots/chat.jpg) |
+| ![Budget]("C:\Users\rashm\Downloads\budget.jpeg") | ![Insights]("C:\Users\rashm\Downloads\insight.jpeg") | ![Chat]("C:\Users\rashm\Downloads\aichat.jpeg") |
 
 ---
 
