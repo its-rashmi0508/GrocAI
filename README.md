@@ -131,13 +131,13 @@ When the cart is badly out of balance, the app can send a system notification.
 
 <div align="center">
 
-<img src="screenshots/login.jpg" width="220" alt="Login">
-<img src="screenshots/home.jpg" width="220" alt="Home">
-<img src="screenshots/list.jpg" width="220" alt="Shopping List">
+<img src="screenshots/login.jpeg" width="220" alt="Login">
+<img src="screenshots/home.jpeg" width="220" alt="Home">
+<img src="screenshots/list.jpeg" width="220" alt="Shopping List">
 
-<img src="screenshots/budget.jpg" width="220" alt="Budget">
-<img src="screenshots/insights.jpg" width="220" alt="Monthly Insights">
-<img src="screenshots/aichat.jpg" width="220" alt="AI Assistant">
+<img src="screenshots/budget.jpeg" width="220" alt="Budget">
+<img src="screenshots/insights.jpeg" width="220" alt="Monthly Insights">
+<img src="screenshots/aichat.jpeg" width="220" alt="AI Assistant">
 
 </div>
 ---
