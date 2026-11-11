@@ -129,20 +129,17 @@ When the cart is badly out of balance, the app can send a system notification.
 
 ## 📸 Screenshots
 
-| Login | Home | Shopping List |
-|:---:|:---:|:---:|
-| ![Login]("<img width="720" height="1449" alt="login" src="https://github.com/user-attachments/assets/a480c6fa-9e20-48b7-8ebd-0da5af9f37b3" />
-") | ![Home]("<img width="720" height="1543" alt="home" src="https://github.com/user-attachments/assets/ec310b03-8f70-4daa-94ec-81970a61744b" />
-") | ![List]("<img width="720" height="1561" alt="list" src="https://github.com/user-attachments/assets/581d2711-4ca6-4a80-8e8f-5158e1ced963" />
-") |
+<div align="center">
 
-| Budget | Monthly Insights | AI Assistant |
-|:---:|:---:|:---:|
-| ![Budget]("<img width="720" height="1534" alt="budget" src="https://github.com/user-attachments/assets/4faed7d9-b520-4d77-8d14-1cad220eb478" />
-") | ![Insights]("<img width="720" height="1551" alt="insight" src="https://github.com/user-attachments/assets/ac36a194-af20-4e3f-96e4-12082a45f5b0" />
-") | ![Chat]("<img width="720" height="1542" alt="aichat" src="https://github.com/user-attachments/assets/93e94643-f480-4014-a27e-36184d68df94" />
-") |
+<img src="screenshots/login.jpg" width="220" alt="Login">
+<img src="screenshots/home.jpg" width="220" alt="Home">
+<img src="screenshots/list.jpg" width="220" alt="Shopping List">
 
+<img src="screenshots/budget.jpg" width="220" alt="Budget">
+<img src="screenshots/insights.jpg" width="220" alt="Monthly Insights">
+<img src="screenshots/aichat.jpg" width="220" alt="AI Assistant">
+
+</div>
 ---
 
 ## 🧰 Tech Stack
