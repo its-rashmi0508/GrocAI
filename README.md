@@ -219,21 +219,10 @@ MAD_Activity/
 - An Android emulator (API 24+) **or** a physical phone with USB debugging
 
 ### Installation
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
-
-# 2. Open the project folder that contains settings.gradle
-#    Android Studio → File → Open → select the MAD_Activity folder
-```
-
 1. Let **Gradle sync** finish (progress bar at the bottom).
 2. If Android Studio asks to install SDK 34 or update Gradle, accept.
 3. If you see a JDK error: **Settings → Build Tools → Gradle → Gradle JDK → jbr-17**.
 4. Choose an emulator or connected phone and press **Run ▶** (`Shift + F10`).
-
-> ⚠️ Open the **`MAD_Activity`** folder (the one containing `settings.gradle` and `app/`), not the outer repository folder. Otherwise the Run button stays greyed out.
 
 ### Build an APK
 
@@ -295,31 +284,17 @@ The file is created at `app/build/outputs/apk/debug/app-debug.apk`.
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-1. Fork the repository
-2. Create a branch: `git checkout -b feature/my-feature`
-3. Commit your changes: `git commit -m "Add my feature"`
-4. Push: `git push origin feature/my-feature`
-5. Open a Pull Request
-
----
-
 ## 👩‍💻 Author
 
 **Rashmi Kumari**
 MCA student, Jain University, Bengaluru
 
-- GitHub: [@your-username](https://github.com/your-username)
+**Komal Gupta**
+MCA student, Jain University, Bengaluru
+
+- GitHub: [its-rashmi0508](https://github.com/its-rashmi0508)
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
 
