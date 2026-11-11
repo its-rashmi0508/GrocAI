@@ -51,7 +51,7 @@ Everything runs **on the device** — no account server, no cloud, no API keys. 
 ---
 
 🎬 Demo Video
-<div align="center"> <a href="C:\Users\rashm\Downloads\GrocAI_PromotionVideo.mp4"> <img src="media/video_thumbnail.jpg" alt="Watch the GrocAI promo video" width="280"> </a>
+https://drive.google.com/file/d/1aNU7xBFDihUF5vUcXl9DgTX9E3URk_Oj/view?usp=sharing
 
 ▶️ Click the image to watch the 55-second GrocAI promo video
 
