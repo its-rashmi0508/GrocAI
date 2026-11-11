@@ -53,7 +53,7 @@ Everything runs **on the device** — no account server, no cloud, no API keys. 
 🎬 Demo Video
 https://drive.google.com/file/d/1aNU7xBFDihUF5vUcXl9DgTX9E3URk_Oj/view?usp=sharing
 
-▶️ Click the image to watch the 55-second GrocAI promo video
+▶️ Click the link to watch the GrocAI promo video
 
 </div>
 
