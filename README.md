@@ -59,6 +59,14 @@ https://drive.google.com/file/d/1aNU7xBFDihUF5vUcXl9DgTX9E3URk_Oj/view?usp=shari
 
 ---
 
+## 📑 Project Reviews
+
+The project review documents and evaluation details are available below.
+
+📂 **[Click Here to View Project Reviews](https://drive.google.com/drive/folders/12fOIbE5tXrJShYf0sPCmo6TyGVlkaoom?usp=sharing)**
+
+---
+
 ## ✨ Features
 
 ### 🔐 Secure account system
